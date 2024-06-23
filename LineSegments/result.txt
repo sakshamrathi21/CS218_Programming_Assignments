@@ -1,0 +1,70 @@
+1
+10
+Length from area algorithm: 10
+21
+10
+21
+
+2
+6
+Length from area algorithm: 6
+25
+6
+25
+
+3
+921
+Length from area algorithm: 921
+26984
+921
+26984
+
+4
+2430
+Length from area algorithm: 2430
+230618
+2430
+230647
+
+5
+20929
+Length from area algorithm: 20928.9
+2045360
+20929
+2045622
+
+6
+224888
+Length from area algorithm: 224888
+111678008
+224888
+111789381
+
+7
+249611
+Length from area algorithm: 249611
+24915970
+249611
+24915635
+
+8
+109773
+Length from area algorithm: 109773
+21829204
+109773
+21832442
+
+9
+104976
+Length from area algorithm: 104976
+519977120
+104976
+520024369
+
+10
+309656
+Length from area algorithm: 309655
+153341168
+309656
+153334263
+
